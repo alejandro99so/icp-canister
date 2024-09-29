@@ -89,3 +89,5 @@ dfx generate
 Deploy
 
 dfx deploy
+
+CanisterId = 52ogb-ayaaa-aaaan-qm4jq-cai
