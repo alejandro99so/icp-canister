@@ -1,0 +1,4 @@
+service : {
+  setAccounts : (text, text, text, text) -> (text);
+  validateAccounts : (text, text) -> (text) query;
+}
